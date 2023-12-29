@@ -1,0 +1,42 @@
+.input::placeholder{
+    color: rgb(36, 35, 35);
+    font-style: italic;
+    text-align: center;
+}
+.input{
+    border: none;
+    outline: none;
+    border-bottom: 0.5vh solid rgb(228, 37, 37);
+    color: rgb(48, 48, 47);
+    font-weight: 600;   
+    background-color: rgb(200, 193, 193);
+    padding-inline: 2vw;
+    border-radius: 1vh;
+    font-size: 4vh;
+    margin-top: 2vh;
+}
+
+.center{
+    text-align: center;
+    color: wheat;
+}
+
+.menu{
+    background-color: rgb(54, 53, 52);
+    width: 20vw;
+    padding: 2vw;
+    box-sizing: border-box;
+    margin: 2vw;
+    border-radius: 2vw;
+}
+
+.list-item{
+    background-color: rgb(58, 56, 56);
+    width: 10vw;
+    margin-bottom: 2vh;
+    color: white;
+}
+
+.btn{
+    padding-inline: 2vw;
+}
